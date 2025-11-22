@@ -1,3 +1,3 @@
 # FlyWay-App
-Backend API development 
+Backend API and Frontend development 
 video link: 
